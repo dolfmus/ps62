@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="ps62-blokfluitkwartet.mscx"/>
+    <rootfile full-path="Excerpts/Alto Recorder/Alto Recorder.mss"/>
+    <rootfile full-path="Excerpts/Alto Recorder/Alto Recorder.mscx"/>
+    <rootfile full-path="Excerpts/Soprano Recorder 1/Soprano Recorder 1.mss"/>
+    <rootfile full-path="Excerpts/Soprano Recorder 1/Soprano Recorder 1.mscx"/>
+    <rootfile full-path="Excerpts/Soprano Recorder 2/Soprano Recorder 2.mss"/>
+    <rootfile full-path="Excerpts/Soprano Recorder 2/Soprano Recorder 2.mscx"/>
+    <rootfile full-path="Excerpts/Tenor Recorder/Tenor Recorder.mss"/>
+    <rootfile full-path="Excerpts/Tenor Recorder/Tenor Recorder.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/Alto Recorder/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Soprano Recorder 1/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Soprano Recorder 2/viewsettings.json"/>
+    <rootfile full-path="Excerpts/Tenor Recorder/viewsettings.json"/>
+    </rootfiles>
+  </container>
