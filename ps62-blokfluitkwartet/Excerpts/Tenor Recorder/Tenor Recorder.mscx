@@ -119,7 +119,7 @@
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
-            <text><sym>metNoteHalfUp</sym><font face="FreeSerif"/> = 80</text>
+            <text><sym>metNoteHalfUp</sym><font face="FreeSerif"></font> = 80</text>
             </Tempo>
           <RehearsalMark>
             <linked>

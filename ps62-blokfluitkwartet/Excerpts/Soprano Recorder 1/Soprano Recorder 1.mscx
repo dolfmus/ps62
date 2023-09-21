@@ -108,7 +108,7 @@
             <followText>1</followText>
             <linked>
               </linked>
-            <text><sym>metNoteHalfUp</sym><font face="FreeSerif"/> = 80</text>
+            <text><sym>metNoteHalfUp</sym><font face="FreeSerif"></font> = 80</text>
             </Tempo>
           <RehearsalMark>
             <linked>
@@ -1645,8 +1645,8 @@
             <Note>
               <linked>
                 </linked>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>

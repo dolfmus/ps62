@@ -121,7 +121,7 @@
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
-            <text><sym>metNoteHalfUp</sym><font face="FreeSerif"/> = 80</text>
+            <text><sym>metNoteHalfUp</sym><font face="FreeSerif"></font> = 80</text>
             </Tempo>
           <RehearsalMark>
             <linked>
@@ -250,8 +250,8 @@
             <Note>
               <linked>
                 </linked>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
